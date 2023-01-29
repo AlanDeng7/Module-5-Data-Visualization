@@ -16,4 +16,4 @@ Download the file and open it with any program that can read jupyter notebook fi
 Alan Deng 
 # Resources
 Stack Overflow
-W3school
+,W3school
